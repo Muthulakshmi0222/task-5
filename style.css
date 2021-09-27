@@ -1,0 +1,38 @@
+p
+{
+  color:red;
+  font-size : 32px;
+  border-top:7px dashed lightsalmon;
+  padding:10px;
+}
+h1
+{
+  color:darkgrey;
+  border-width: 10px;
+  border-style: groove;
+  border-color: lightsalmon;
+  padding: 19px;
+  margin-top: 50px;
+  margin-bottom: 120px;
+  font-family: "Fleur De Leah" , cursive;
+}
+ul{
+  color:aqua;
+  font-size: 10pt;
+  font-style: italic;
+  list-style-type:armenian; 
+}
+ol{
+  color:pink;
+  list-style-type:disclosure-closed  ;
+  font-style:inherit;
+  font-weight: bold;
+  }
+  h3{
+    text-transform: uppercase;
+    letter-spacing: 10px;
+  }
+  .favthings{
+    text-transform: capitalize;
+    color:khaki;
+  }
